@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938447616157",
+    "project_id": "realtime-6d013",
+    "storage_bucket": "realtime-6d013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938447616157:android:70f5034a21f82eec15bc74",
+        "android_client_info": {
+          "package_name": "com.example.buoi5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938447616157-j7r8sp7dep8bngqvclu017unlpvftcoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChsjA35cBFwELPPtM56og-7e7tVNERVV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938447616157-j7r8sp7dep8bngqvclu017unlpvftcoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
