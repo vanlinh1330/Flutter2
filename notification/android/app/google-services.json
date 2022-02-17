@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384991780554",
+    "project_id": "fcm-buoi4",
+    "storage_bucket": "fcm-buoi4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384991780554:android:6a9ee54c5dd137ce1f1e33",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384991780554-ubqn4l5t2gmnnlbf64oicn8pc3vbjaua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJXXGViH-UusD-94krYS127NzyesBy_e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384991780554-ubqn4l5t2gmnnlbf64oicn8pc3vbjaua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
